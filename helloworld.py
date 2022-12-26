@@ -1,3 +1,3 @@
-# This proram prints Hello, world!
+# This program prints Hello, world!
 
-print('Hello, world!')
+print('Hello, half of the world! - Thanos')
